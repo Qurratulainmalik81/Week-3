@@ -1,3 +1,4 @@
+//this is my course class
 public class Course {
     private String courseName;
     private Textbook TB;
